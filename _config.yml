@@ -1,8 +1,8 @@
 # Site settings
 title: Microdust
-header-img: "img/autumn2.jpg"
-tagline: "吉光片羽"  
-description: "在遙遠的地方 一切虔誠終必相遇"  
+header-img: "img/bay.jpg"
+tagline: "啦啦啦"  
+description: "这是首页的一句描述"  
 baseurl: ""
 # url: "http://azeril.me"  
 # url: "http://localhost:4000"
@@ -12,15 +12,15 @@ url: http://stardust.cat
 
 # About/contact
 owner: 
-  name: "Azeril"
+  name: "蓝精灵"
   email: azeril@live.cn
-  bio: "明朝即長路 惜取此時心"
+  bio: "这是拥有者的描述"
 
 # Data
 gavatar: https://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.ico
 
-douban_username: Azeril
+douban_username: 蓝精灵1
 twitter_username: Azeril_Lapland  
 github_username: Azeril  
 facebook_username: Azeril_Lapland  
@@ -57,7 +57,7 @@ defaults:
     values:
       layout: "post"
       author: "Azeril"
-      header-img: "img/fantasy.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/coolgirl.png" # We don't want posts without a header image, that whould mean white on white
 
 
 # Comments 
