@@ -22,8 +22,8 @@ description:反正是描述
 $ echo $SHELL
 ```
 
--lalla
-  -lalalla
+- lalla
+  - lalalla
 
 ## 2个是中标题
 ### 3个是小标题
