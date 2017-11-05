@@ -41,8 +41,8 @@ description: "Sparks"
       const g = Math.floor(Math.random() * 256); //随机生成256以内g值
       const b = Math.floor(Math.random() * 256); //随机生成256以内b值
       const alpha = Math.random(); //随机生成1以内a值
-      return `rgb(${r},${g},${b},${alpha})`; //返回rgba(r,g,b,a)格式颜色
-      document.getElementById('firecolor').innerHTML='rgb(${r},${g},${b},${alpha})'
+      return `rgba(${r},${g},${b},${alpha})`; //返回rgba(r,g,b,a)格式颜色
+      document.getElementById('firecolor').innerHTML='rgba(${r},${g},${b},${alpha})'
     }
 
     // function rand(){
