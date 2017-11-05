@@ -2,7 +2,7 @@
 layout: page
 title: "关于我"
 description: "啦啦啦这是这一页的介绍啊！"
-header-img: "img/harker.png"
+header-img: "img/hacker.png"
 ---
 
 <center>
