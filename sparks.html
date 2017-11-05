@@ -9,7 +9,7 @@ description: "Sparks"
     <title></title>
     <style media="screen">
       body{
-        background: rgba(88, 88, 88, 0.9);
+        background: rgba(38, 38, 38, 0.9);
         animation: change 1s linear infinite;
         font-size: 2em;
         text-align: center;
@@ -21,12 +21,13 @@ description: "Sparks"
         40%{color: rgba(200, 25, 25, 0.9)}
         60%{color: yellow}
         80%{color: orange}
-        100%{color: gold}
+        100%{color: red}
       }
     </style>
   </head>
   <body>
     点击我，看烟火~
+    <p style="color:white;fontsize:20px" id="firecolor"> 打印出颜色  </p>
   </body>
   <script type="text/javascript">
   var wHeight=document.documentElement.clientHeight||document.body.clientHeight;
@@ -39,6 +40,7 @@ description: "Sparks"
       while (rand<6) {
         rand='0'+rand;
       }
+      document.getElementById("firecolor").innerHTML = rand;
       return rand;
     }
 
@@ -53,7 +55,7 @@ description: "Sparks"
       fire.style.width='10px';
       fire.style.height='50px';
       fire.style.borderRadius='50%';
-      fire.style.background='pink';
+      fire.style.background='yellow';
       fire.style.left=event.clientX+'px';
       fire.style.top=wHeight+'px';
       body_.appendChild(fire);
