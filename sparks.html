@@ -35,12 +35,8 @@ description: "Sparks"
   var body_=document.querySelector('body');
   body_.style.width=wWidth+'px';
   body_.style.height=wHeight+'px';
-    function rgba(){
-      const r = Math.floor(Math.random() * 256); //随机生成256以内r值
-      const g = Math.floor(Math.random() * 256); //随机生成256以内g值
-      const b = Math.floor(Math.random() * 256); //随机生成256以内b值
-      const alpha = Math.random(); //随机生成1以内a值
-      return `rgb(${r},${g},${b},${alpha})`; //返回rgba(r,g,b,a)格式颜色
+    function hsb(){
+      return "hsb(" + Math.random()  + ", 1, 1)";
       document.getElementById("firecolor").innerHTML =r+','+g+','+b+','+alpha ;
     }
 
@@ -73,7 +69,7 @@ description: "Sparks"
              flower.style.height='10px';
             //  flower.innerHTML=arrs[ran];
              flower.style.borderRadius='50%';
-             flower.style.background=rgba();
+             flower.style.background=hsb();
              flower.style.position='absolute';
              flower.style.top=event.clientY+'px';
              flower.style.left=event.clientX+'px';
