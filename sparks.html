@@ -37,10 +37,13 @@ description: "Sparks"
   body_.style.height=wHeight+'px';
     function rgb(){
       var rand=parseInt(Math.random()*16581375).toString(16);
+      console.log("log"+rand)
       while (rand<6) {
         rand='0'+rand;
+        console.log(rand)
       }
       document.getElementById("firecolor").innerHTML = rand;
+      
       return rand;
     }
 
