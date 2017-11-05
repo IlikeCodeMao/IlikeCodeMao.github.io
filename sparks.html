@@ -27,7 +27,7 @@ description: "Sparks"
   </head>
   <body>
     点击我，看烟火~
-    <p style="color:white;fontsize:20px" id="firecolor"> 第二次  </p>
+    <p style="color:white;fontsize:20px" id="firecolor"> 第3次  </p>
   </body>
   <script type="text/javascript">
   var wHeight=document.documentElement.clientHeight||document.body.clientHeight;
@@ -38,9 +38,9 @@ description: "Sparks"
     function rgba(){
       
       const r = Math.floor(Math.random() * 256); //随机生成256以内r值
-      const g = Math.floor(Math.random() * 256); //随机生成256以内g值
+      const g = Math.floor(Math.random() * 256/2); //随机生成256以内g值
       const b = Math.floor(Math.random() * 256); //随机生成256以内b值
-      const alpha = Math.random(); //随机生成1以内a值
+      const alpha = Math.random()*2; //随机生成1以内a值
       return `rgba(${r},${g},${b},${alpha})`; //返回rgba(r,g,b,a)格式颜色
       document.getElementById('firecolor').innerHTML='rgba(${r},${g},${b},${alpha})'
     }
