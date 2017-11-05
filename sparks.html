@@ -36,8 +36,9 @@ description: "Sparks"
   body_.style.width=wWidth+'px';
   body_.style.height=wHeight+'px';
     function hsb(){
+      
+      document.getElementById("firecolor").innerHTML ="hsb(" + Math.random()  + ", 1, 1)" ;
       return "hsb(" + Math.random()  + ", 1, 1)";
-      document.getElementById("firecolor").innerHTML =r+','+g+','+b+','+alpha ;
     }
 
     // function rand(){
