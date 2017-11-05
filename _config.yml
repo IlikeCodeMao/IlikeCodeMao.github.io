@@ -1,6 +1,6 @@
 # Site settings
 title: 我是蓝精灵  #网站主标题
-header-img: "img/bay.jpg"   #网站头部照片  
+header-img: "img/tm.jpg"   #网站头部照片  
 tagline: "啦啦啦"    #网站副标题
 description: "这是首页的一句描述"  
 baseurl: ""  #这是网站的基础地址，可以自己设置
