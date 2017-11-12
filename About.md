@@ -39,7 +39,7 @@ header-img: "img/birds.jpg"
 1.糖醋和老鱼头
 
 ## 假猫祖的新小说
-1.《断弦小狗狗的一生》![](https://www.codemao.cn/wiki/novel/cover/4199)
+1.《断弦小狗狗的一生》[小说传送门](https://www.codemao.cn/wiki/novel/cover/4199)
 
 
 hello在这里，你可以介绍你自己！
