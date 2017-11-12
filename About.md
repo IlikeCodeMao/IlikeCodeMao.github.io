@@ -7,7 +7,10 @@ header-img: "img/birds.jpg"
 
 <center>
     <p><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1509860055100&di=94737be380c453c16e4b06033671c765&imgtype=0&src=http%3A%2F%2Fimg2.ctoutiao.com%2Fuploads%2F2017%2F05%2F16%2F0639dfb80069678cfd405deb2d28a39d.jpg" align="center"></p>
-</center>
+  </center>
+  
+![](https://o44j7l4g3.qnssl.com/comic/猫厂泡面番/297/猫厂2-8.jpg?imageView2/2/w/760)
+
 
 # 这个是标题
 
