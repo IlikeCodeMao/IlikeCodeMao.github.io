@@ -56,7 +56,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "作者名：蓝精灵"
+      author: "作者名：假猫祖"
       header-img: "img/timg.png" # We don't want posts without a header image, that whould mean white on white
 
 
