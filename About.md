@@ -35,6 +35,12 @@ header-img: "img/birds.jpg"
 3. C++ 从入门到放弃
 > 尽管那些书我都没看过
 
+## 假猫祖的好基友
+1.糖醋和老鱼头
+
+## 假猫祖的新小说
+1.《断弦小狗狗的一生》![](https://www.codemao.cn/wiki/novel/cover/4199)
+
 
 hello在这里，你可以介绍你自己！
 
