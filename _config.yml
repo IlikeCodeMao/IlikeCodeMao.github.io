@@ -1,6 +1,6 @@
 # Site settings
 title: 欢迎来到天才假猫祖的圣地  #网站主标题
-header-img: "img/ttext.png"   #网站头部照片  
+header-img: "img/mystar.jpg"   #网站头部照片  
 tagline: "我是来自源码世界的天才假猫祖"    #网站副标题
 description: "愚蠢的人类啊，你是怎么来到这里的，是点击链接还是好友推荐"  
 baseurl: ""  #这是网站的基础地址，可以自己设置
@@ -57,7 +57,7 @@ defaults:
     values:
       layout: "post"
       author: "作者名：假猫祖"
-      header-img: "img/ttext.png" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/mystar.jpg" # We don't want posts without a header image, that whould mean white on white
 
 
 # Comments 
