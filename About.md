@@ -9,7 +9,7 @@ header-img: "img/birds.jpg"
     <p><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1509860055100&di=94737be380c453c16e4b06033671c765&imgtype=0&src=http%3A%2F%2Fimg2.ctoutiao.com%2Fuploads%2F2017%2F05%2F16%2F0639dfb80069678cfd405deb2d28a39d.jpg" align="center"></p>
   </center>
 
-# 古书记载的关于假猫祖的身世字谜
+# 古书记载的关于假猫祖的身世之谜
 
 ## 关于假猫祖到底活了多少岁
 我也不知道，我要算一下，一一得一，一二得二……
@@ -38,6 +38,18 @@ header-img: "img/birds.jpg"
 
 ## 假猫祖的新小说
 1.《断弦小狗狗的一生》[小说传送门](https://www.codemao.cn/wiki/novel/cover/4199)
+
+## 假猫祖的来历
+古书上并无任何记载，这一直都是个迷
+
+## 假猫祖到底有多帅
+据说这是无法用任何文字表达的帅，但是到底有多帅，这已被列入源码世界四大未解之谜之一
+
+## 源码世界四大未解之谜
+1.Yue.S到底是谁
+2.断弦到底是百合jilao还是女装dalao
+3.假猫祖到底有多帅
+4.编程猫的性别
 
 
 
